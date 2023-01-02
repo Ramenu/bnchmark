@@ -1,0 +1,1 @@
+This is mostly just a chatgpt rewrite of my python script with minor modifications.
